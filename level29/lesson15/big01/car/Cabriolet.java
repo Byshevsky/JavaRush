@@ -1,8 +1,6 @@
 package com.javarush.test.level29.lesson15.big01.car;
 
-/**
- * Created by IGOR on 02.01.2016.
- */
+
 public class Cabriolet extends Car
 {
     public Cabriolet(int numberOfPassengers)
